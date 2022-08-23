@@ -22,7 +22,7 @@ public class LocalToggleAnimationInt : UdonSharpBehaviour
     [Header("------------------------------------------------------------------")]
     public Animator statusAnimator;
     public AudioSource sound;
-    public int coolTime = 500;
+    public int coolTime = 300;
 
     private int value = 0;
     private bool initialized = false;

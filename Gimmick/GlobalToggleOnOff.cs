@@ -29,7 +29,7 @@ public class GlobalToggleOnOff : UdonSharpBehaviour
     public Animator statusAnimator;
     public AudioSource sound;
     public UdonBehaviour resetTarget = null;
-    public int coolTime = 500;
+    public int coolTime = 300;
 
     [UdonSynced(UdonSyncMode.None)]
     private bool value = false;

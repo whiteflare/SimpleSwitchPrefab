@@ -24,7 +24,7 @@ public class GlobalToggleCyclic : UdonSharpBehaviour
     [Header("------------------------------------------------------------------")]
     public Animator statusAnimator;
     public AudioSource sound;
-    public int coolTime = 500;
+    public int coolTime = 300;
 
     [UdonSynced(UdonSyncMode.None)]
     private int value = 0;

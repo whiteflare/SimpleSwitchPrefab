@@ -20,7 +20,7 @@ public class LocalToggleOnOff : UdonSharpBehaviour
     public Animator statusAnimator;
     public AudioSource sound;
     public UdonBehaviour resetTarget = null;
-    public int coolTime = 500;
+    public int coolTime = 300;
 
     private bool value = false;
     private bool initialized = false;
