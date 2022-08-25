@@ -12,7 +12,7 @@ Material:
   m_ShaderKeywords: _ES_ENABLE _GL_AUTO_ENABLE _MT_ENABLE _NM_ENABLE _TS_ENABLE _TS_STEP2_ENABLE
   m_LightmapFlags: 2
   m_EnableInstancingVariants: 1
-  m_DoubleSidedGI: 0
+  m_DoubleSidedGI: 1
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
