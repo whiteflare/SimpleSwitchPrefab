@@ -303,6 +303,11 @@ PrefabInstance:
       propertyPath: m_ReceiveShadows
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2968657151401150223, guid: a4356792bdac6e8478b38f2c1baf9ce0,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a7185753d1bf3a943aab92a69d51a7b9, type: 2}
     - target: {fileID: 3239056949458232414, guid: a4356792bdac6e8478b38f2c1baf9ce0,
         type: 3}
       propertyPath: m_ProbeAnchor
