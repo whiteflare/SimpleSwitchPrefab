@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: LocalToggleAnimationInt
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: eb2fd53dab295754fb20dd8b9c914a74,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 928cb1c1740e05a44951b33d110f7d9f,
     type: 2}
   udonAssembly: 
   assemblyError: 

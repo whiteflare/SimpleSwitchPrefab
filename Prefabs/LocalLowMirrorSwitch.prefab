@@ -17,6 +17,12 @@ PrefabInstance:
       propertyPath: interactText
       value: Low Mirror (Local)
       objectReference: {fileID: 0}
+    - target: {fileID: 2975446349923694776, guid: 82992d44228843847b1f04877a249e24,
+        type: 3}
+      propertyPath: serializedProgramAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 85d6660e0db0feb4480b22fcdd214841,
+        type: 2}
     - target: {fileID: 3845537713992160847, guid: 82992d44228843847b1f04877a249e24,
         type: 3}
       propertyPath: m_ReflectLayers.m_Bits
@@ -32,6 +38,12 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 63abd4a1211c6ac46987ac0bb7bf07fb, type: 2}
+    - target: {fileID: 6061653313477690005, guid: 82992d44228843847b1f04877a249e24,
+        type: 3}
+      propertyPath: serializedProgramAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: ddb9869785998a8449ea7c02cec68249,
+        type: 2}
     - target: {fileID: 7334361143626311010, guid: 82992d44228843847b1f04877a249e24,
         type: 3}
       propertyPath: m_Name

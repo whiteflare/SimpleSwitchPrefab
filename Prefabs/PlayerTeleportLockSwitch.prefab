@@ -39,6 +39,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2924125883048157030}
     m_Modifications:
+    - target: {fileID: 304980092169103737, guid: e141784636df45d4780db5bfd9538ef3,
+        type: 3}
+      propertyPath: serializedProgramAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: a81829789b79efc4f924f75dee818490,
+        type: 2}
     - target: {fileID: 3556330831837348961, guid: e141784636df45d4780db5bfd9538ef3,
         type: 3}
       propertyPath: m_Name
@@ -125,6 +131,12 @@ PrefabInstance:
       propertyPath: interactText
       value: Lock
       objectReference: {fileID: 0}
+    - target: {fileID: 1104999011742686462, guid: 5e85e5d2336867c4b9460e642e5b0113,
+        type: 3}
+      propertyPath: serializedProgramAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: cc61e7bd55110e04d94f8817c179fec7,
+        type: 2}
     - target: {fileID: 1104999011742686462, guid: 5e85e5d2336867c4b9460e642e5b0113,
         type: 3}
       propertyPath: serializedPublicVariablesBytesString
