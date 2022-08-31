@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: PlayerTeleportSwitch
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: a81829789b79efc4f924f75dee818490,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: d287dacf0ad1cff4ba3b5b7242482fc3,
     type: 2}
   udonAssembly: 
   assemblyError: 

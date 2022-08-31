@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: LocalToggleCyclic
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 00523a971287cb9459f1a586ee058833,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 0a59ed0671d9a1b4ba187b9934234737,
     type: 2}
   udonAssembly: 
   assemblyError: 
