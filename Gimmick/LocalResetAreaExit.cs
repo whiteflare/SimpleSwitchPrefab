@@ -4,7 +4,7 @@ using UnityEngine;
 using VRC.SDKBase;
 using VRC.Udon;
 
-public class LocalResetAreaLeave : UdonSharpBehaviour
+public class LocalResetAreaExit : UdonSharpBehaviour
 {
     [Space]
 

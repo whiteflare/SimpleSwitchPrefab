@@ -39,6 +39,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2924125883048157030}
     m_Modifications:
+    - target: {fileID: -6115514264089127634, guid: e141784636df45d4780db5bfd9538ef3,
+        type: 3}
+      propertyPath: serializationData.Prefab
+      value: 
+      objectReference: {fileID: -6115514264089127634, guid: e141784636df45d4780db5bfd9538ef3,
+        type: 3}
     - target: {fileID: 304980092169103737, guid: e141784636df45d4780db5bfd9538ef3,
         type: 3}
       propertyPath: serializedProgramAsset
@@ -126,6 +132,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2924125883048157030}
     m_Modifications:
+    - target: {fileID: -5696619963486685513, guid: 5e85e5d2336867c4b9460e642e5b0113,
+        type: 3}
+      propertyPath: setActive.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -5696619963486685513, guid: 5e85e5d2336867c4b9460e642e5b0113,
+        type: 3}
+      propertyPath: serializationData.Prefab
+      value: 
+      objectReference: {fileID: -5696619963486685513, guid: 5e85e5d2336867c4b9460e642e5b0113,
+        type: 3}
+    - target: {fileID: -5696619963486685513, guid: 5e85e5d2336867c4b9460e642e5b0113,
+        type: 3}
+      propertyPath: setDeactive.Array.data[0]
+      value: 
+      objectReference: {fileID: 1928967136284521929}
     - target: {fileID: 1104999011742686462, guid: 5e85e5d2336867c4b9460e642e5b0113,
         type: 3}
       propertyPath: interactText
